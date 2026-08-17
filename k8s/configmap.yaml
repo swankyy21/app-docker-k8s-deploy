@@ -4,6 +4,6 @@ metadata:
   name: todo-config
   namespace: todo-app
 data:
-  POSTGRES_DB: "todos"
+  POSTGRES_DB: "AppDockerK8s"
   POSTGRES_HOST: "postgres"
   POSTGRES_PORT: "5432"
